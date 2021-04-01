@@ -8,3 +8,7 @@
  This is an attempt at improving my front end development skills.
 
  Each project will have its folder.
+
+## Projects
+
+1. Expanding Cards
