@@ -32,19 +32,18 @@ body {
 .card h3 {
     position: absolute;
     bottom: 20px;
-    left: 20px;
     font-size: 20px;
     margin: 0;
     opacity: 0;
 }
 
 .card.active {
-    flex: 5;
+    flex: 1;
 }
 
 .card.active h3 {
     opacity: 1;
-    transition: opacity .3s ease-in .4s;
+    transition: opacity 0.3s ease-in 0.4s;
 }
 
 .card-1 {
@@ -52,7 +51,7 @@ body {
 }
 
 .card-2 {
-    background-image: url('images/2.jpg');
+    background-image: url('images/5.jpg');
 }
 
 .card-3 {
