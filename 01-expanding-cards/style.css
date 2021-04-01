@@ -3,6 +3,7 @@
 }
 
 body {
+    font-family: 'DM Sans', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -32,6 +33,7 @@ body {
 .card h3 {
     position: absolute;
     bottom: 20px;
+    left: 10px;
     font-size: 20px;
     margin: 0;
     opacity: 0;
