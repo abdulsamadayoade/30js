@@ -50,6 +50,11 @@ body {
     width: 20rem;
     border-radius: 50%;
     position: relative;
+    transition: transform .5s linear;
+}
+
+.container.show-nav .circle {
+    transform: rotate(-70deg);
 }
 
 button {
@@ -93,7 +98,7 @@ nav ul {
 nav ul li {
     color: #fff;
     margin: 2rem 0;
-    /* transform: translateX(-100%); */
+    transform: translateX(-150%);
     transition: transform .4s ease;
 }
 
