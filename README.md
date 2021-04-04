@@ -12,9 +12,11 @@
 ## Projects
 
 1. Expanding Cards
+
 Live URL = https://exp-cards.netlify.app/
 
 2. Progress Steps
 
 3. Rotating Navigation
+
 Live URL = https://rot-nav.netlify.app/
