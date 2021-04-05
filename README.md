@@ -15,12 +15,20 @@
 
 Live URL = https://exp-cards.netlify.app/
 
-2. Progress Steps
+
+2. Progress Steps (need to be updated)
+
 
 3. Rotating Navigation
 
 Live URL = https://rot-nav.netlify.app/
 
+
 4. Hidden Search Box
 
 Live URL = https://hid-search.netlify.app/
+
+
+5. Blurry Loading
+
+Live URL = https://blur-load.netlify.app/
