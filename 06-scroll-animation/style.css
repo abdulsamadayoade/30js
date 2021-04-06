@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    background-color: #efedd6;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin: 0;
+}
+
+h1 {
+    margin: 1rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+.box {
+    background-color: tomato;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40rem;
+    height: 20rem;
+    margin: 1rem;
+    transform: translateX(400%);
+    transition: transform .4s ease;
+}
+
+.box:nth-of-type(even) {
+    transform: translateX(-400%);
+}
+
+.box.show {
+    transform: translateX(0);
+}
