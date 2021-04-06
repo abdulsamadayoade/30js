@@ -32,3 +32,8 @@ Live URL = https://hid-search.netlify.app/
 5. Blurry Loading
 
 Live URL = https://blur-load.netlify.app/
+
+
+6. Scroll Animation
+
+Live URL = https://scroll-anim.netlify.app/
