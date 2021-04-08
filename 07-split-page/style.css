@@ -100,6 +100,13 @@ h1 {
     border-color: rgba(80, 42, 42);
 }
 
+.split.right,
+.split.left,
+.split.left::before,
+.split.right::before {
+    transition: all 1s ease-in-out;
+}
+
 .hover-left .left{
     width: 75%;
 }
@@ -114,4 +121,14 @@ h1 {
 
 .hover-right .left {
     width: 25%;
+}
+
+@media screen and (max-width: 800px) {
+    html {
+        font-size: 8px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
 }
