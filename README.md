@@ -37,3 +37,7 @@ Live URL = https://blur-load.netlify.app/
 6. Scroll Animation
 
 Live URL = https://scroll-anim.netlify.app/
+
+7. Split Page
+
+Live URL = https://split-pg.netlify.app/
