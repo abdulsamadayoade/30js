@@ -41,3 +41,7 @@ Live URL = https://scroll-anim.netlify.app/
 7. Split Page
 
 Live URL = https://split-pg.netlify.app/
+
+8. Form Input Animation
+
+Live URL = https://form-input-animation.netlify.app/
