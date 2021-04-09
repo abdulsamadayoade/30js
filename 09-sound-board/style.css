@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    background-color: steelblue;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.5rem;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.btn {
+    background-color: rgb(48, 48, 161);
+    border: none;
+    outline: none;
+    color: #FFF;
+    font-family: inherit;
+    font-size: inherit;
+    margin: 1rem;
+    padding: 1.5rem 3rem;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
