@@ -47,3 +47,7 @@ Live URL = https://split-pg.netlify.app/
 8. Form Input Animation
 
 Live URL = https://form-input-animation.netlify.app/
+
+9. Sound Board
+
+Live URL = https://sound-brd.netlify.app/
