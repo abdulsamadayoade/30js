@@ -16,7 +16,9 @@
 Live URL = https://exp-cards.netlify.app/
 
 
-2. Progress Steps (need to be updated)
+2. Progress Steps
+
+Live URL = https://prog-steps.netlify.app/
 
 
 3. Rotating Navigation
