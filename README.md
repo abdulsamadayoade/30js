@@ -52,6 +52,8 @@ Live URL = https://form-input-animation.netlify.app/
 
 Live URL = https://sound-brd.netlify.app/
 
-10. Dad Jokes Gnenerator
+10. Dad Jokes Generator
 
 Live URL = https://dad-jokes-gen.netlify.app/
+
+11. Key Codes Generator
