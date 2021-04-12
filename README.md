@@ -5,7 +5,7 @@
 
  For every day, I'll build a project.
 
- This is an attempt at improving my front end development skills.
+ This is an attempt at improving my front end development skills especially javascript.
 
  Each project will have its folder.
 
@@ -57,3 +57,9 @@ Live URL = https://sound-brd.netlify.app/
 Live URL = https://dad-jokes-gen.netlify.app/
 
 11. Key Codes Generator
+
+Live URL = https://key-codes-gen.netlify.app/
+
+12. FAQs
+
+Live URL = https://faqs-section.netlify.app/
