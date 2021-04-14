@@ -63,3 +63,11 @@ Live URL = https://key-codes-gen.netlify.app/
 12. FAQs
 
 Live URL = https://faqs-section.netlify.app/
+
+13. Random Choice Picker
+
+Live URL = https://choices-picker.netlify.app/
+
+14. Stylish Navigation Bar
+
+Live URL = https://stylish-nav.netlify.app/
