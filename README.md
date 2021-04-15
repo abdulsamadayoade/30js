@@ -71,3 +71,7 @@ Live URL = https://choices-picker.netlify.app/
 14. Stylish Navigation Bar
 
 Live URL = https://stylish-nav.netlify.app/
+
+15. Increment Counter
+
+Live URL = https://inc-counter.netlify.app/
