@@ -1,7 +1,3 @@
-
-
-https://xd.adobe.com/view/6602b556-0a28-43cd-b870-0f1f21294bef-3351/screen/fe273a5e-0b09-41a5-bd8e-ef6dd5443689/
-
 # 30js
  30 mini Javascript projects for 30 days (April) 
 
