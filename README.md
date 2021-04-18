@@ -80,7 +80,10 @@ Live URL = https://inc-counter.netlify.app/
 
 Live URL = https://water-fill.netlify.app/
 
-
 17. Movie App
 
 Live URL = https://mov-app.netlify.app/
+
+18. Background Slider
+
+Live URL = https://bg-slide.netlify.app/
