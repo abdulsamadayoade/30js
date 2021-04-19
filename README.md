@@ -87,3 +87,7 @@ Live URL = https://mov-app.netlify.app/
 18. Background Slider
 
 Live URL = https://bg-slide.netlify.app/
+
+19. Animated Clock
+
+Live URL = https://anim-clock.netlify.app/
