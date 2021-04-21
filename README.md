@@ -91,3 +91,11 @@ Live URL = https://bg-slide.netlify.app/
 19. Animated Clock
 
 Live URL = https://anim-clock.netlify.app/
+
+20. Button Ripple Effects
+
+Live URL = https://button-effects.netlify.app/
+
+21. Drag and Drop
+
+Live URL = https://dragdropfeature.netlify.app/
