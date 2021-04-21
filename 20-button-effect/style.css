@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    background-color: #000;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+button {
+    background-color: tomato;
+    color: #fff;
+    cursor: pointer;
+    border: 1px solid tomato;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    padding: 2rem 3rem;
+    overflow: hidden;
+    margin: 1rem 0;
+    position: relative;
+}
+
+button:focus {
+    outline: none;
+}
+
+button .circle {
+    position: absolute;
+    background-color: #fff;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    animation: scale .5s ease-out;
+}
+
+@keyframes scale {
+    to {
+    transform: translate(-50%, -50%) scale(3);
+        opacity: 0;
+    }
+}
