@@ -107,3 +107,7 @@ Live URL = https://user-filter-app.netlify.app/
 23. Todo App
 
 Live URL = https://mytodo-web-app.netlify.app/
+
+24. Custom Range Slider
+
+Live URL = https://custom-range-slider.netlify.app/
