@@ -111,3 +111,13 @@ Live URL = https://mytodo-web-app.netlify.app/
 24. Custom Range Slider
 
 Live URL = https://custom-range-slider.netlify.app/
+
+25. Testimonial Slider
+
+Live URL = https://testimonial-slides.netlify.app/
+
+26. Image Carousel
+
+Live URL = https://carousel-img-slider.netlify.app/
+
+Update: I was unable to complete the 30 projects. There are still 4 more projects needed to be done which I'll continue in May since April has come to an end.
