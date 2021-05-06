@@ -120,4 +120,4 @@ Live URL = https://testimonial-slides.netlify.app/
 
 Live URL = https://carousel-img-slider.netlify.app/
 
-Update: I was unable to complete the 30 projects. There are still 4 more projects needed to be done which I'll continue in May since April has come to an end.
+Update: I was unable to complete the 30 projects. I only did 26. I think I tried.
